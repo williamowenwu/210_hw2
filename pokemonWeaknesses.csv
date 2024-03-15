@@ -1,0 +1,14 @@
+Weakness,Type,Count
+fighting,normal,6
+flying,fighting,3
+fire,grass,11
+fire,bug,1
+fire,flying,1
+water,fire,9
+water,rock,4
+water,ground,4
+poison,fairy,3
+grass,rock,1
+grass,water,1
+ground,electric,1
+rock,fire,1
